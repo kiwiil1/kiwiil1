@@ -3,10 +3,10 @@
 
 
 
-
-- 🌱 estou estudando HTML/CSS javascript
-- 🤔 procurando ajuda em programação
-- 📫 contatar-me em: mousarah01@gmail.com
-- 😄 Pronomes: ela/dela
+- Cursando Ciência da Computação no 3º período. 
+-  estou estudando HTML/CSS, C++ e java.
+-  procurando ajuda em programação.
+-  contatar-me em: mousarah01@gmail.com.
+  
 
 
